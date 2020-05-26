@@ -1,6 +1,6 @@
 # m3-D7
 Strive-Home Work
-<!--
+
       PAIR PROGRAMMING EXERCISE.
       1 DRIVER, 1 NAVIGATOR.
       1 Exercise each. Use GitHub to share the code.
@@ -26,4 +26,4 @@ Strive-Home Work
       Ex6) Add a link on each user, when clicked it must go to a detail page, where user information are presented (from the API)
       EXTRA)
       Visualize on a Google Map plugin all the users (using lat & lng)
-    -->
+    
